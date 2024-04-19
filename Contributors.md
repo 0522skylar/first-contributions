@@ -6,6 +6,7 @@
 - [Santosh Shebannavar](https://github.com/shebannavar)
 - [KaladinB4](https://github.com/KaladinB4)
 - [Skylar](https://github.com/0522skylar)
+- [Skylar weekly](https://skylarweekly.bearblog.dev)
 - [saradifranco](https://github.com/saradifranco)
 - [wpa](https://github.com/waiphyo111000)
 - [ariicodes](https://github.com/ariicodes)
